@@ -1,0 +1,32 @@
+.cardnum {
+    width: 40%;
+}
+.amount {
+    width: 22.93%;
+}
+.inputs {
+    display: inline-block;
+    margin: 0px 24px 24px 24px;
+}
+.firstname, .lastname, .city {
+    width: 46%;
+}
+.state, .postal {
+    width: 21%
+}
+.payment {
+    display: inline-block;
+    margin-right: 19px;
+    margin-left: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+.message {
+    width: 46%;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
